@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "306494168608",
+    "firebase_url": "https://trafficteller-556aa.firebaseio.com",
+    "project_id": "trafficteller-556aa",
+    "storage_bucket": "trafficteller-556aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306494168608:android:d1a66e46fa0edb7f",
+        "android_client_info": {
+          "package_name": "com.signalteller.trafficteller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306494168608-bnfli2fm25sbpu76mrtgpgujl52neb1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signalteller.trafficteller",
+            "certificate_hash": "e3a7c08fd3aff0f3eb06a571e7083040cf6a8d8d"
+          }
+        },
+        {
+          "client_id": "306494168608-1oal5db1uhbqpifpvap2rd61oeo3308p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_sFXTDmx6M6VZ0h6VJOEboOq3sNhE1c0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306494168608-1oal5db1uhbqpifpvap2rd61oeo3308p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
